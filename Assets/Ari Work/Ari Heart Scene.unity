@@ -150,7 +150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.5
   sphereCount: 10000
-  shapeSize: 20
+  shapeSize: 15
 --- !u!4 &624871497
 Transform:
   m_ObjectHideFlags: 0
