@@ -1,8 +1,4 @@
-![heart](https://github.com/user-attachments/assets/f0c91918-60bf-4130-a0e5-c473b6071378)
+Preview of HeartWork
+![image](https://github.com/user-attachments/assets/b4e81ade-1f48-4007-8260-d111ea24dc54)
 
-IMDM 290 
-
-2025 Spring
-
-Course Material 
-![Untitled video - Made with Clipchamp (8)](https://github.com/user-attachments/assets/f862236a-a226-4e8f-8bfd-47c7161032da)
+IMPORTANT - The code that I wrote is under a folder called Ari Work - one element of the code I added is user control - feel free to change the speed (how quickly the spheres move), the sphere count (how many spheres make up the heart with ~20 being good for a very basic heart) and shape size (how big you want the shape to appear)
